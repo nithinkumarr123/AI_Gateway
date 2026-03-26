@@ -1,0 +1,22 @@
+[
+  {"prompt": "What is the capital of France?", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "Who wrote Romeo and Juliet?", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "What is 2+2?", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "Hello, how are you?", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "What is the weather like today?", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "Define artificial intelligence briefly.", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "List three primary colors.", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "What year did World War II end?", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "Who is the CEO of Microsoft?", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "What is the largest ocean?", "expected_model": "fast", "complexity_type": "simple"},
+  {"prompt": "Explain the theory of relativity and its implications for modern physics. Compare and contrast special and general relativity, and describe how they've been experimentally verified.", "expected_model": "capable", "complexity_type": "complex"},
+  {"prompt": "Write a Python function that implements quicksort algorithm with detailed comments explaining each step. Include edge cases and complexity analysis.", "expected_model": "capable", "complexity_type": "complex"},
+  {"prompt": "Analyze the economic implications of implementing universal basic income in developed nations. Consider labor markets, social welfare systems, and potential funding mechanisms.", "expected_model": "capable", "complexity_type": "complex"},
+  {"prompt": "Given the following code, identify all potential bugs and suggest optimizations: def fibonacci(n): if n <= 1: return n else: return fibonacci(n-1) + fibonacci(n-2)", "expected_model": "capable", "complexity_type": "complex"},
+  {"prompt": "Solve the following system of equations using matrix methods: 2x + 3y - z = 5, x - y + 2z = -2, 3x + y + z = 4. Show all steps.", "expected_model": "capable", "complexity_type": "complex"},
+  {"prompt": "Design a microservices architecture for an e-commerce platform. Discuss service boundaries, data consistency, communication patterns, and deployment strategies.", "expected_model": "capable", "complexity_type": "complex"},
+  {"prompt": "Evaluate the ethical implications of using AI in criminal justice systems. Consider fairness, transparency, accountability, and potential biases.", "expected_model": "capable", "complexity_type": "complex"},
+  {"prompt": "Create a detailed lesson plan for teaching recursion to beginner programmers. Include objectives, activities, common pitfalls, and assessment methods.", "expected_model": "capable", "complexity_type": "complex"},
+  {"prompt": "Analyze the following business case study: A company is facing declining market share. They have three options: aggressive price cuts, product innovation, or market expansion. Each option has different risk profiles and investment requirements.", "expected_model": "capable", "complexity_type": "complex"},
+  {"prompt": "Compare and contrast different approaches to climate change mitigation: carbon pricing, renewable energy mandates, and technological innovation. Evaluate effectiveness and economic impacts.", "expected_model": "capable", "complexity_type": "complex"}
+]
