@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A research-driven AI gateway that intelligently routes prompts to the most appropriate LLM based on complexity—balancing cost, speed, and quality.
 
