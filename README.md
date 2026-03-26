@@ -89,7 +89,7 @@ ai-gateway/
 ### Prerequisites
 
 - Python 3.10+
-- (Optional) API Keys:
+- API Keys:
   - Groq API
   - Google Gemini API
 
