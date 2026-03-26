@@ -121,13 +121,16 @@ GEMINI_API_KEY=your_key
 python -m uvicorn src.gateway:app --reload
 ```
 
-#### 5. Test
+#### 5.Open New Terminal and Test
 ```bash
 curl -X POST http://127.0.0.1:8000/chat \
 -H "Content-Type: application/json" \
 -d '{"prompt":"What is 2+2?"}'
 ```
-
+#### 6.Log Viewer
+```bash
+start log_viewer.html
+```
 ---
 
 ## 📡 API Endpoints
@@ -192,18 +195,6 @@ python poc.py
 python full_demo.py
 ```
 
----
-
-## 🎬 Demo Flow (1 Minute)
-
-- Run `poc.py` → shows accuracy  
-- Start server  
-- Test simple → FAST  
-- Test complex → CAPABLE  
-- Show cache hit  
-- Open logs  
-
----
 
 ## 🔬 Routing Model
 
